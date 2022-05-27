@@ -1,0 +1,46 @@
+
+#background_header{
+    background-color:  #d9dbdb;
+}
+#background_header h1{
+    font-size: 25px; margin-left: 70px; padding-top: 40px; color: #fc6d98;
+}
+#background_header h2{
+    font-size: 18px; margin-left: 70px; color: black;
+}
+#web{
+    color: #fc6d98; margin-left: 70px; margin-top: 100px; font-size: 30px; padding-top: 20px;
+}
+#front{
+    color: rgb(0, 0, 0); margin-left: 70px; font-size: 30px; width: 300px;
+}
+#img_perfil{
+    width: 250px; height: auto; margin-left: 900px; margin-top: -150px;
+}
+#col_1{
+    cursor: help; color: whitesmoke; font-size: 30px; margin-top: 30px;
+}
+#cols{
+    color: whitesmoke; font-size: 30px; margin-top: 30px;
+}
+#bem_Vindo_h2{
+    padding-top: 30px; padding-left: 50px; color:rgb(25, 33, 41); text-align: center;
+}
+#introducao_p{
+    width: 1200px; padding-top: 10px; padding-left: 180px; padding-bottom: 20px; margin-bottom: 0; color: black;font-size: 18px; text-align: center;
+}
+#historico_h2{
+    color: whitesmoke; text-align: center; margin-top: 50px; padding: 20px; background-color: #212529;
+}
+#historico_prof h2{
+    margin-top: 50px; margin-left: 10px; font-size: 25px;
+}
+#historico_prof p{
+    margin-left: 25px; font-size: 16px;
+}
+#habilidades h2{
+    margin-top: 50px; margin-left: 10px; font-size: 25px;
+}
+#habilidades p{
+    margin-left: 25px; font-size: 16px;
+}

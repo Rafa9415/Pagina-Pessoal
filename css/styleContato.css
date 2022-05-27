@@ -1,0 +1,17 @@
+
+#nome-error {
+    display: none;
+}
+
+#email-error{
+    display: none;
+}
+
+#numero-error{
+    display: none;
+}
+
+#mensagem-error{
+    display: none;
+}
+/*eu não sei o porque esse style não está funcionando, deixei o estilo direto no html*/

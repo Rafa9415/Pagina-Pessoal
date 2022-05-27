@@ -1,0 +1,15 @@
+#background{
+    background-color:#d9dbdb; height: 700px;
+}
+#background h1{
+    font-size: 25px; margin-left: 70px; padding-top: 40px; color: #fc6d98;
+}
+#background h2{
+    font-size: 18px; margin-left: 70px; color: black;
+}
+#h3_descrição{
+    color:black; margin-left: 600px; margin-top: 80px; font-size: 50px; margin-bottom: 50px; color: #fc6d98; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#p_descrição{
+    padding-left: 230px;  width: 1200px; text-align: justify;
+}
